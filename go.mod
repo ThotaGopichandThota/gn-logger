@@ -1,4 +1,4 @@
-module github.com/ThotaGopichandThota/gn-logger
+module github.com/ThotaGopichandThota/gn-logger1
 
 go 1.20
 

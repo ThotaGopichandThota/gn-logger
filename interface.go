@@ -3,7 +3,7 @@ package logger
 import (
 	"io"
 
-	"github.com/ThotaGopichandThota/gn-logger/proto"
+	"github.com/ThotaGopichandThota/gn-logger1/proto"
 )
 
 // Logger defines the behavior of a data logger component

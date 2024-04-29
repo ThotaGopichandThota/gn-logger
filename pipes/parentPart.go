@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	logger "github.com/ThotaGopichandThota/gn-logger"
+	logger "github.com/ThotaGopichandThota/gn-logger1"
 )
 
 const logLinesSinkName = "logLinesSink"

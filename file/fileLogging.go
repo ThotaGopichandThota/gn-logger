@@ -9,9 +9,10 @@ import (
 	"sync"
 	"time"
 
+	logger "github.com/ThotaGopichandThota/gn-logger1"
+	"github.com/ThotaGopichandThota/gn-logger1/redirects"
+
 	"github.com/ThotaGopichandThota/gn-core2/core"
-	logger "github.com/ThotaGopichandThota/gn-logger"
-	"github.com/ThotaGopichandThota/gn-logger/redirects"
 )
 
 const (

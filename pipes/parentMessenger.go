@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 
-	logger "github.com/ThotaGopichandThota/gn-logger"
+	logger "github.com/ThotaGopichandThota/gn-logger1"
 )
 
 // ParentMessenger is the messenger on parent's part of the pipe

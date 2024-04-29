@@ -4,7 +4,7 @@ import (
 	"io"
 	"os"
 
-	logger "github.com/ThotaGopichandThota/gn-logger"
+	logger "github.com/ThotaGopichandThota/gn-logger1"
 )
 
 var _ io.Writer = (*childPart)(nil)
@@ -68,7 +68,6 @@ func (part *childPart) continuouslyReadProfile() {
 		if err != nil {
 			break
 		}
-
 		err = profile.Apply()
 		log.Info("Profile change applied.")
 	}

@@ -3,7 +3,7 @@ package pipes
 import (
 	"os"
 
-	logger "github.com/ThotaGopichandThota/gn-logger"
+	logger "github.com/ThotaGopichandThota/gn-logger1"
 )
 
 // ChildMessenger is the messenger on child's part of the pipe

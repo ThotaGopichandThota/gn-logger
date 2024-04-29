@@ -6,7 +6,7 @@ import (
 	"path"
 	"time"
 
-	logger "github.com/ThotaGopichandThota/gn-logger"
+	logger "github.com/ThotaGopichandThota/gn-logger1"
 )
 
 const dummySignalsFolder = "dummysignals"

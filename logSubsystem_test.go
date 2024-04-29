@@ -3,7 +3,8 @@ package logger_test
 import (
 	"testing"
 
-	logger "github.com/ThotaGopichandThota/gn-logger"
+	logger "github.com/ThotaGopichandThota/gn-logger1"
+
 	"github.com/stretchr/testify/assert"
 )
 

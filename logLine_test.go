@@ -4,9 +4,10 @@ import (
 	"fmt"
 	"testing"
 
+	logger "github.com/ThotaGopichandThota/gn-logger1"
+	"github.com/ThotaGopichandThota/gn-logger1/proto"
+
 	"github.com/ThotaGopichandThota/gn-core2/marshal"
-	logger "github.com/ThotaGopichandThota/gn-logger"
-	"github.com/ThotaGopichandThota/gn-logger/proto"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -8,9 +8,10 @@ import (
 	"testing"
 	"time"
 
-	logger "github.com/ThotaGopichandThota/gn-logger"
-	"github.com/ThotaGopichandThota/gn-logger/mock"
-	"github.com/ThotaGopichandThota/gn-logger/proto"
+	logger "github.com/ThotaGopichandThota/gn-logger1"
+	"github.com/ThotaGopichandThota/gn-logger1/mock"
+	"github.com/ThotaGopichandThota/gn-logger1/proto"
+
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

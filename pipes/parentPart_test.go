@@ -6,9 +6,10 @@ import (
 	"os/exec"
 	"testing"
 
+	logger "github.com/ThotaGopichandThota/gn-logger1"
+	"github.com/ThotaGopichandThota/gn-logger1/mock"
+
 	"github.com/ThotaGopichandThota/gn-core2/marshal"
-	logger "github.com/ThotaGopichandThota/gn-logger"
-	"github.com/ThotaGopichandThota/gn-logger/mock"
 	"github.com/stretchr/testify/require"
 )
 

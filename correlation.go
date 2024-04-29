@@ -3,7 +3,7 @@ package logger
 import (
 	"sync"
 
-	"github.com/ThotaGopichandThota/gn-logger/proto"
+	"github.com/ThotaGopichandThota/gn-logger1/proto"
 )
 
 var globalCorrelation logCorrelation

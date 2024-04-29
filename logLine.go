@@ -4,7 +4,7 @@ package logger
 import (
 	"time"
 
-	"github.com/ThotaGopichandThota/gn-logger/proto"
+	"github.com/ThotaGopichandThota/gn-logger1/proto"
 )
 
 // LogLine is the structure used to hold a log line

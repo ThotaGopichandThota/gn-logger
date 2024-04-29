@@ -1,6 +1,6 @@
 package mock
 
-import logger "github.com/ThotaGopichandThota/gn-logger"
+import logger "github.com/ThotaGopichandThota/gn-logger1"
 
 // LoggerStub -
 type LoggerStub struct {

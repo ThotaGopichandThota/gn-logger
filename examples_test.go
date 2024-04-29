@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"testing"
 
-	logger "github.com/ThotaGopichandThota/gn-logger"
+	logger "github.com/ThotaGopichandThota/gn-logger1"
 )
 
 func TestLogger_ExampleCreateLoggerAndOutputSimpleMessages(t *testing.T) {

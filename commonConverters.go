@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ThotaGopichandThota/gn-logger/proto"
+	"github.com/ThotaGopichandThota/gn-logger1/proto"
 )
 
 const bracketsLength = len("[]")
